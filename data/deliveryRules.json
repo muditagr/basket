@@ -1,0 +1,18 @@
+
+[  
+    {   
+        "minAmount": 0,
+        "maxAmount": 50,
+        "fee": 4.95
+    },
+    {
+        "minAmount": 50,
+        "maxAmount": 90,
+        "fee": 2.95
+    },
+    {
+        "minAmount": 90,
+        "maxAmount": 2147483647, 
+        "fee": 0
+    }
+]
